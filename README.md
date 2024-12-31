@@ -5,9 +5,6 @@ Bu proje, **Nesneye Yönelik Programlama** dersi kapsamında geliştirilmiş bir
 ## Özellikler
 
 - **Etkileşimli Oyun:** Klavye kontrolleriyle yılanı hareket ettirin (İster w,a,s,d ister yön tuşlarını kullanın).
-- **Meyveler(O sembolleri):** Yılan, yediği her meyvede daha da uzar.
-- **Zehirli Meyveler(& sembolleri):** Yılan, yediği her zehirli meyvede kısalır ve puan kaybeder.
-- **Bombalar(# sembolleri):** Yılanın, yediği her bombada oyun alanı daralır.
 - **Basit ve Eğlenceli Grafikler:** Minimalist konsol tabanlı tasarım.
 - **Yüksek Performans:** Hafif ve hızlı bir oyun motoru.
 
