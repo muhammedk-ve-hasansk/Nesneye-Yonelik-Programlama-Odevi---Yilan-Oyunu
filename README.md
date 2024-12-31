@@ -1,6 +1,6 @@
 # Yılan Oyunu (Nesneye Yönelik Programlama Ödevi)
 
-Bu proje, **Nesneye Yönelik Programlama** dersi kapsamında geliştirilmiş bir yılan oyunudur. Oyunda, klasik yılan mantığına uygun olarak bazı güncellemeler yapıldı, yılanı büyütmek için yemekleri toplayacak ve duvarlara, zehirli meyvelere, bombalara ya da kendinize çarpmadan hayatta kalmaya çalışacaksınız. 
+Bu proje, **Nesneye Yönelik Programlama** dersi kapsamında geliştirilmiş bir yılan oyunudur. Oyunda, klasik yılan oyunu mantığına uygun olarak bazı güncellemeler yapıldı, yılanı büyütmek için yemekleri toplayacak ve duvarlara, zehirli meyvelere, bombalara ya da kendinize çarpmadan hayatta kalmaya çalışacaksınız. 
 
 ## Özellikler
 
