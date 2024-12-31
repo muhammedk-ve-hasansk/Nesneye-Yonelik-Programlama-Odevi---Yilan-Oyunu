@@ -37,7 +37,7 @@ void Menu::showMenu() {
             std::cout << "\n--- Yilan Oyunu Kurallari ---\n";
             std::cout << "1. Yilani yon tuslariyla hareket ettirin.\n";
             std::cout << "2. Meyveleri(O sembolleri) yiyin, puan kazandirir.\n";
-            std::cout << "3. Zehirli meyvelerden (& sembolleri) kacinin, puan kaybedetirir.\n";
+            std::cout << "3. Zehirli meyvelerden (& sembolleri) kacinin, puan kaybettirir.\n";
             std::cout << "4. Bombalar (# sembolleri) alani kucultur.\n";
             std::cout << "5. Oyun alanindan cikmak kaybettirir.\n";
             std::cout << "6. Yilaninizin boyutu bir birimden fazlayken eger ters yone gitmeye calisirsaniz yilan kendi kendini isaracagi icin kaybedersiniz.\n";
